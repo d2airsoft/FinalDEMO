@@ -1,0 +1,72 @@
+[{
+  "timeSeconds": 0,
+  "isOn": true,
+  "hue": 20789,
+  "saturation": 147,
+  "brightness": 120,
+  "alert": "select"
+},
+{
+  "timeSeconds": 0,
+  "isOn": true,
+  "hue": 20789,
+  "saturation": 147,
+  "brightness": 120,
+  "alert": "select"
+},
+{
+  "timeSeconds": 0,
+  "isOn": true,
+  "hue": 20789,
+  "saturation": 147,
+  "brightness": 120,
+  "alert": "select"
+},
+{
+  "timeSeconds": 1,
+  "isOn": true,
+  "hue": 20789,
+  "saturation": 147,
+  "brightness": 120,
+  "alert": "select"
+},
+{
+  "timeSeconds": 1,
+  "isOn": true,
+  "hue": 20789,
+  "saturation": 147,
+  "brightness": 120,
+  "alert": "select"
+},
+{
+  "timeSeconds": 1,
+  "isOn": true,
+  "hue": 20789,
+  "saturation": 147,
+  "brightness": 120,
+  "alert": "select"
+},
+{
+  "timeSeconds": 2,
+  "isOn": true,
+  "hue": 20789,
+  "saturation": 147,
+  "brightness": 250,
+  "alert": "select"
+},
+{
+  "timeSeconds": 2,
+  "isOn": true,
+  "hue": 20789,
+  "saturation": 147,
+  "brightness": 250,
+  "alert": "select"
+},
+{
+  "timeSeconds": 2,
+  "isOn": true,
+  "hue": 20789,
+  "saturation": 147,
+  "brightness": 250,
+  "alert": "select"
+}]

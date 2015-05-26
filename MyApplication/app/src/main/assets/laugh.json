@@ -1,0 +1,96 @@
+[{
+  "timeSeconds": 0,
+  "isOn": true,
+  "hue": 7254,
+  "saturation": 244,
+  "brightness": 120,
+  "alert": "select"
+},
+{
+  "timeSeconds": 0,
+  "isOn": true,
+  "hue": 35956,
+  "saturation": 254,
+  "brightness": 120,
+  "alert": "select"
+},
+{
+  "timeSeconds": 0,
+  "isOn": true,
+  "hue": 38951,
+  "saturation": 128,
+  "brightness": 120,
+  "alert": "select"
+},
+{
+  "timeSeconds": 1,
+  "isOn": true,
+  "hue": 36439,
+  "saturation": 241,
+  "brightness": 120,
+  "alert": "select"
+},
+{
+  "timeSeconds": 1,
+  "isOn": true,
+  "hue": 48586,
+  "saturation": 253,
+  "brightness": 120,
+  "alert": "select"
+},
+{
+  "timeSeconds": 1,
+  "isOn": true,
+  "hue": 47111,
+  "saturation": 253,
+  "brightness": 120,
+  "alert": "select"
+},
+{
+  "timeSeconds": 2,
+  "isOn": true,
+  "hue": 59128,
+  "saturation": 253,
+  "brightness": 120,
+  "alert": "select"
+},
+{
+  "timeSeconds": 2,
+  "isOn": true,
+  "hue": 31766,
+  "saturation": 205,
+  "brightness": 120,
+  "alert": "select"
+},
+{
+  "timeSeconds": 2,
+  "isOn": true,
+  "hue": 7254,
+  "saturation": 244,
+  "brightness": 120,
+  "alert": "select"
+},
+{
+  "timeSeconds": 3,
+  "isOn": false,
+  "hue": 0,
+  "saturation": 0,
+  "brightness": 0,
+  "alert": "null"
+},
+{
+  "timeSeconds": 3,
+  "isOn": false,
+  "hue": 0,
+  "saturation": 0,
+  "brightness": 0,
+  "alert": "null"
+},
+{
+  "timeSeconds": 3,
+  "isOn": false,
+  "hue": 0,
+  "saturation": 0,
+  "brightness": 0,
+  "alert": "null"
+}]

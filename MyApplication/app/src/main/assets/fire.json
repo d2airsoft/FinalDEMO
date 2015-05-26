@@ -1,0 +1,168 @@
+[{
+  "timeSeconds": 0,
+  "isOn": true,
+  "hue": 7254,
+  "saturation": 244,
+  "brightness": 30,
+  "alert": "null"
+},
+{
+  "timeSeconds": 0,
+  "isOn": true,
+  "hue": 7254,
+  "saturation": 244,
+  "brightness": 80,
+  "alert": "select"
+},
+{
+  "timeSeconds": 0,
+  "isOn": true,
+  "hue": 7254,
+  "saturation": 244,
+  "brightness": 150,
+  "alert": "null"
+},
+{
+  "timeSeconds": 1,
+  "isOn": true,
+  "hue": 7254,
+  "saturation": 244,
+  "brightness": 138,
+  "alert": "select"
+},
+{
+  "timeSeconds": 1,
+  "isOn": true,
+  "hue": 7254,
+  "saturation": 244,
+  "brightness": 38,
+  "alert": "null"
+},
+{
+  "timeSeconds": 1,
+  "isOn": true,
+  "hue": 7254,
+  "saturation": 244,
+  "brightness": 88,
+  "alert": "null"
+},
+{
+  "timeSeconds": 2,
+  "isOn": true,
+  "hue": 7254,
+  "saturation": 244,
+  "brightness": 100,
+  "alert": "null"
+},
+{
+  "timeSeconds": 2,
+  "isOn": true,
+  "hue": 7254,
+  "saturation": 244,
+  "brightness": 158,
+  "alert": "null"
+},
+{
+  "timeSeconds": 2,
+  "isOn": true,
+  "hue": 7254,
+  "saturation": 244,
+  "brightness": 28,
+  "alert": "select"
+},
+{
+  "timeSeconds": 3,
+  "isOn": true,
+  "hue": 7254,
+  "saturation": 244,
+  "brightness": 28,
+  "alert": "select"
+},
+{
+  "timeSeconds": 3,
+  "isOn": true,
+  "hue": 7254,
+  "saturation": 244,
+  "brightness": 108,
+  "alert": "null"
+},
+{
+  "timeSeconds": 3,
+  "isOn": true,
+  "hue": 7254,
+  "saturation": 244,
+  "brightness": 218,
+  "alert": "null"
+},
+{
+  "timeSeconds": 4,
+  "isOn": true,
+  "hue": 7254,
+  "saturation": 244,
+  "brightness": 238,
+  "alert": "null"
+},
+{
+  "timeSeconds": 4,
+  "isOn": true,
+  "hue": 7254,
+  "saturation": 244,
+  "brightness": 38,
+  "alert": "select"
+},
+{
+  "timeSeconds": 4,
+  "isOn": true,
+  "hue": 7254,
+  "saturation": 244,
+  "brightness": 88,
+  "alert": "null"
+},
+{
+  "timeSeconds": 5,
+  "isOn": true,
+  "hue": 7254,
+  "saturation": 244,
+  "brightness": 160,
+  "alert": "null"
+},
+{
+  "timeSeconds": 5,
+  "isOn": true,
+  "hue": 7254,
+  "saturation": 244,
+  "brightness": 18,
+  "alert": "null"
+},
+{
+  "timeSeconds": 5,
+  "isOn": true,
+  "hue": 7254,
+  "saturation": 244,
+  "brightness": 45,
+  "alert": "select"
+},
+{
+  "timeSeconds": 6,
+  "isOn": false,
+  "hue": 0,
+  "saturation": 0,
+  "brightness": 0,
+  "alert": "null"
+},
+{
+  "timeSeconds": 6,
+  "isOn": false,
+  "hue": 0,
+  "saturation": 0,
+  "brightness": 0,
+  "alert": "null"
+},
+{
+  "timeSeconds": 6,
+  "isOn": false,
+  "hue": 0,
+  "saturation": 0,
+  "brightness": 0,
+  "alert": "null"
+}]

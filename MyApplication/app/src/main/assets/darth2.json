@@ -1,0 +1,144 @@
+[{
+  "timeSeconds": 0,
+  "isOn": true,
+  "hue": 38951,
+  "saturation": 128,
+  "brightness": 250,
+  "alert": "null"
+},
+{
+  "timeSeconds": 0,
+  "isOn": true,
+  "hue": 38179,
+  "saturation": 163,
+  "brightness": 80,
+  "alert": "null"
+},
+{
+  "timeSeconds": 0,
+  "isOn": true,
+  "hue": 38951,
+  "saturation": 128,
+  "brightness": 250,
+  "alert": "null"
+},
+{
+  "timeSeconds": 1,
+  "isOn": true,
+  "hue": 38951,
+  "saturation": 128,
+  "brightness": 188,
+  "alert": "null"
+},
+{
+  "timeSeconds": 1,
+  "isOn": true,
+  "hue": 38179,
+  "saturation": 163,
+  "brightness": 80,
+  "alert": "null"
+},
+{
+  "timeSeconds": 1,
+  "isOn": true,
+  "hue": 38951,
+  "saturation": 128,
+  "brightness": 188,
+  "alert": "null"
+},
+{
+  "timeSeconds": 2,
+  "isOn": true,
+  "hue": 38951,
+  "saturation": 128,
+  "brightness": 120,
+  "alert": "null"
+},
+{
+  "timeSeconds": 2,
+  "isOn": true,
+  "hue": 38179,
+  "saturation": 163,
+  "brightness": 80,
+  "alert": "null"
+},
+{
+  "timeSeconds": 2,
+  "isOn": true,
+  "hue": 38951,
+  "saturation": 128,
+  "brightness": 120,
+  "alert": "null"
+},
+{
+  "timeSeconds": 3,
+  "isOn": true,
+  "hue": 38951,
+  "saturation": 128,
+  "brightness": 60,
+  "alert": "null"
+},
+{
+  "timeSeconds": 3,
+  "isOn": true,
+  "hue": 38179,
+  "saturation": 163,
+  "brightness": 80,
+  "alert": "null"
+},
+{
+  "timeSeconds": 3,
+  "isOn": true,
+  "hue": 38951,
+  "saturation": 128,
+  "brightness": 60,
+  "alert": "null"
+},
+{
+  "timeSeconds": 4,
+  "isOn": true,
+  "hue": 38951,
+  "saturation": 128,
+  "brightness": 2,
+  "alert": "select"
+},
+{
+  "timeSeconds": 4,
+  "isOn": true,
+  "hue": 38179,
+  "saturation": 163,
+  "brightness": 20,
+  "alert": "null"
+},
+{
+  "timeSeconds": 4,
+  "isOn": true,
+  "hue": 38951,
+  "saturation": 128,
+  "brightness": 2,
+  "alert": "select"
+},
+{
+  "timeSeconds": 5,
+  "isOn": false,
+  "hue": 0,
+  "saturation": 0,
+  "brightness": 0,
+  "alert": "null"
+},
+{
+  "timeSeconds": 5,
+  "isOn": false,
+  "hue": 0,
+  "saturation": 0,
+  "brightness": 0,
+  "alert": "null"
+},
+{
+  "timeSeconds": 5,
+  "isOn": false,
+  "hue": 0,
+  "saturation": 0,
+  "brightness": 0,
+  "alert": "null"
+}]
